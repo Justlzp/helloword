@@ -1,2 +1,2 @@
-#hello world
-#hi everone i'm lzp i love u
+#The k8s dashboard file
+
